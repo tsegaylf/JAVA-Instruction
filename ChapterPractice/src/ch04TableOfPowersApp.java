@@ -22,9 +22,9 @@ public class ch04TableOfPowersApp {
 		System.out.println("Continue??");
 		choice = sc.next();
 
-		System.out.println("Goodbye");
 		
 		}
+		System.out.println("Goodbye");
 	}
 	}
 
